@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import ttk
+from tkinter import ttk, filedialog
 import pywhatkit as kit
 import threading
 
@@ -9,10 +9,20 @@ def send_message():
     hour = int(hour_entry.get())
     minute = int(minute_entry.get())
 
-    send_single_message(phone_number, message, hour, minute)
+    if image_path_var.get():
+        send_single_message_with_image(phone_number, message, hour, minute, image_path_var.get())
+    else:
+        send_single_message(phone_number, message, hour, minute)
 
 def send_single_message(phone_number, message, hour, minute):
-    kit.sendwhatmsg(phone_number, message, hour, minute)
+    kit.sendwhatmsg_instantly(phone_number, message, hour, minute)
+
+def send_single_message_with_image(phone_number, message, hour, minute, image_path):
+    kit.sendwhatmsg(phone_number, message, int(hour), int(minute), image_path)
+
+def browse_image():
+    file_path = filedialog.askopenfilename(filetypes=[("Image files", "*.png;*.jpg;*.jpeg;*.gif")])
+    image_path_var.set(file_path)
 
 root = tk.Tk()
 root.title("WhatsApp Message Scheduler")
@@ -37,7 +47,12 @@ minute_label.grid(row=3, column=0, padx=10, pady=10, sticky=tk.W)
 minute_entry = ttk.Entry(root, width=5)
 minute_entry.grid(row=3, column=1, padx=10, pady=10, sticky=tk.W)
 
+image_path_var = tk.StringVar()
+
+browse_button = ttk.Button(root, text="Browse Image", command=browse_image)
+browse_button.grid(row=4, column=0, padx=10, pady=10, sticky=tk.W)
+
 send_button = ttk.Button(root, text="Send Message", command=lambda: threading.Thread(target=send_message).start())
-send_button.grid(row=4, column=0, columnspan=2, pady=20)
+send_button.grid(row=4, column=1, padx=10, pady=10, sticky=tk.W)
 
 root.mainloop()
