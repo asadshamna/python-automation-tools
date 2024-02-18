@@ -12,7 +12,7 @@ def send_message():
     send_single_message(phone_number, message, hour, minute)
 
 def send_single_message(phone_number, message, hour, minute):
-    kit.sendwhatmsg(phone_number, message, hour, minute)
+    kit.sendwhatmsg_instantly(phone_number, message, hour, minute)
 
 root = tk.Tk()
 root.title("WhatsApp Message Scheduler")
