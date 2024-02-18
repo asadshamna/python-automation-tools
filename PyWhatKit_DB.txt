@@ -1,0 +1,220 @@
+Date: 1/1/2024
+Time: 19:47
+Phone Number: +9967795512
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 1/1/2024
+Time: 19:48
+Phone Number: +9967795512
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 1/1/2024
+Time: 19:52
+Phone Number: +9967795512
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 1/1/2024
+Time: 19:54
+Phone Number: +9967795512
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 1/1/2024
+Time: 19:54
+Phone Number: +9967795512
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 1/1/2024
+Time: 20:0
+Phone Number: +9769898429
+Message: Hello from Python WhatsApp Automation! This is a testing message for individual person.
+--------------------
+Date: 2/1/2024
+Time: 19:42
+Phone Number: +9967795512
+Message: Hello from Python WhatsApp Automation! This is a testing message for multiple users.
+--------------------
+Date: 2/1/2024
+Time: 19:43
+Phone Number: +9323691486
+Message: Hello from Python WhatsApp Automation! This is a testing message for multiple users.
+--------------------
+Date: 2/1/2024
+Time: 19:44
+Phone Number: +9967795512
+Message: Hello from Python WhatsApp Automation! This is a testing message for multiple users.
+--------------------
+Date: 2/1/2024
+Time: 19:44
+Phone Number: +9323691486
+Message: Hello from Python WhatsApp Automation! This is a testing message for multiple users.
+--------------------
+Date: 2/1/2024
+Time: 19:47
+Phone Number: +9967795512
+Message: Hello from Shamna's WhatsApp Automation! This is a testing message for multiple users. Thank you for becoming part of my testing.
+--------------------
+Date: 2/1/2024
+Time: 19:48
+Phone Number: +9323691486
+Message: Hello from Shamna's WhatsApp Automation! This is a testing message for multiple users. Thank you for becoming part of my testing.
+--------------------
+Date: 2/1/2024
+Time: 19:48
+Phone Number: +9769898429
+Message: Hello from Shamna's WhatsApp Automation! This is a testing message for multiple users. Thank you for becoming part of my testing.
+--------------------
+Date: 2/1/2024
+Time: 19:58
+Phone Number: +9967795512
+Message: Hello Again!, This message is automated by Shamna's Company, It is dynamically typed message taken from the user input!
+--------------------
+Date: 2/1/2024
+Time: 19:59
+Phone Number: +9769898429
+Message: Hello Again!, This message is automated by Shamna's Company, It is dynamically typed message taken from the user input!
+--------------------
+Date: 2/1/2024
+Time: 20:3
+Phone Number: +9967795512
+Message: Thanks!
+--------------------
+Date: 2/1/2024
+Time: 20:7
+Phone Number: +9967795512
+Message: No Messages anymore............. its a lie!
+--------------------
+Date: 2/1/2024
+Time: 20:9
+Phone Number: +9967795512
+Message: No Messages anymore! its a lie
+--------------------
+Date: 2/1/2024
+Time: 20:12
+Phone Number: +9967795512
+Message: No Messages anymore............. its a lie!
+--------------------
+Date: 2/1/2024
+Time: 20:12
+Phone Number: +9769898429
+Message: No Messages anymore............. its a lie!
+--------------------
+Date: 2/1/2024
+Time: 20:16
+Phone Number: +9967795512
+Message: Hellowww Again!
+--------------------
+Date: 2/1/2024
+Time: 20:16
+Phone Number: +9769898429
+Message: Hellowww Again!
+--------------------
+Date: 2/1/2024
+Time: 20:19
+Phone Number: +9967795512
+Message: Hellowww Again!
+--------------------
+Date: 2/1/2024
+Time: 20:20
+Phone Number: +9769898429
+Message: Hellowww Again!
+--------------------
+Date: 2/1/2024
+Time: 20:29
+Phone Number: +9967795512
+Message: Hellloooww Again!
+--------------------
+Date: 2/1/2024
+Time: 20:32
+Phone Number: +9967795512
+Message: Hellloooow Again!
+--------------------
+Date: 2/1/2024
+Time: 20:32
+Phone Number:  +9769898429
+Message: Hellloooow Again!
+--------------------
+Date: 2/1/2024
+Time: 20:33
+Phone Number: +9769898429
+Message: Hellloooow Again!
+--------------------
+Date: 2/1/2024
+Time: 20:40
+Phone Number: +9769898429
+Message: Helllooooow Again!
+--------------------
+Date: 9/1/2024
+Time: 20:59
+Phone Number: +9769898429
+Message: Hello Fatima
+--------------------
+Date: 9/1/2024
+Time: 21:1
+Phone Number: +9769898429
+Message: Hello Fatima
+--------------------
+Date: 9/1/2024
+Time: 21:2
+Phone Number: +9769898429
+Message: Hello Fatima
+--------------------
+Date: 9/1/2024
+Time: 21:4
+Phone Number: +9769898429
+Message: Hello Fatima
+--------------------
+Date: 9/1/2024
+Time: 21:7
+Phone Number: +9769898429
+Message: Hello Fatima
+--------------------
+Date: 9/1/2024
+Time: 21:9
+Phone Number: +9769898429
+Message: Hello Fatima
+--------------------
+Date: 18/2/2024
+Time: 17:54
+Phone Number: +7738706611
+Message: This message is automated, just testing adil bhai
+--------------------
+Date: 18/2/2024
+Time: 17:56
+Phone Number: +7738706611
+Message: This message is automated, just testing adil bhai
+--------------------
+Date: 18/2/2024
+Time: 17:58
+Phone Number: +7738706611
+Message: This message is automated, just testing adil bhai
+--------------------
+Date: 18/2/2024
+Time: 18:0
+Phone Number: +7738706611
+Message: This message is automated, just testing adil bhai
+--------------------
+Date: 18/2/2024
+Time: 18:5
+Phone Number: +7738706611
+Message: This message is automated, just testing adil bhai
+--------------------
+Date: 18/2/2024
+Time: 18:6
+Phone Number: +7738706611
+Message: This message is automated, just testing adil bhai
+--------------------
+Date: 18/2/2024
+Time: 18:11
+Phone Number: +7738706611
+Message: Hello Adil bhai
+--------------------
+Date: 18/2/2024
+Time: 18:14
+Phone Number: +7387383128
+Message: Hello Nouman bhai, this is just an automated message scheduled at 6.14
+--------------------
+Date: 18/2/2024
+Time: 18:14
+Phone Number: +7387383128
+Message: Hello Nouman bhai, this is just an automated message scheduled at 6.15
+--------------------
